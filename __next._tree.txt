@@ -1,4 +1,4 @@
 :HL["/gloria-hotels/_next/static/chunks/2x__q6u13t6z6.css","style"]
 :HL["/gloria-hotels/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"B7mhkj_nbncgdoh5Gvxpy","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"0ij3wxdjK1dYKDW2cwRns","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
